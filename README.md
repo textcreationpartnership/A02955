@@ -35,9 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The French kinges declaration vpon the riot, felonie, and rebellion of the duke of Mayenne & the duk
+
 #####Body#####
-The French kinges declaration vpon the riot, felonie, and rebellion of the duke of Mayenne & the duk
+
+1. ❧THE KINGES DECLARATION
+vpon the Ryot, Felonie, & Rebellion of the Duke of
+Mayenne, the Duke and Knight of Aumalle and
+their aſſiſtants.
+
+1. ¶THE KINGES DECLARATION
+vpon the Riot, Felonie, and Rebellion of the Townes
+of Paris, Orleance, Amyens and Abbeuille, with other
+their adherents.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
